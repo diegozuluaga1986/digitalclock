@@ -1,0 +1,31 @@
+#reloj{
+    font-family: sans-serif;
+    font-size: 60px;
+    text-shadow: 0px 0px 1px #333;
+    color: #fff;
+}
+.reloj-contenedor{
+    background-color: rgb(12, 119,206);
+    background-image: url(scale.jpg);
+    padding: 25px;
+    max-width: 350px; /*caja estrecha*/
+    text-align: center;
+    border-radius: 5px; /* esquinas redondeadas*/
+    margin:0 auto; /*para centrar el div en la poagina*/
+    margin-top: 10%; /*baja el div*/
+    }
+
+    #fecha{
+        letter-spacing: 10px;
+        font-size: 15px;
+    }
+
+    .animar{
+        border: rgb(0, 0,0)  2px solid;
+        background-color: rgb(236, 4, 20);
+        background-image: url(scale2.jpg);
+
+        color: rgb(244, 14, 14);
+        text-shadow: rgb(9, 9, 9) solid 8px;
+        
+    }
